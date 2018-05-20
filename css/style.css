@@ -482,7 +482,7 @@ h6 {
 .home .hero-txt .hero-title {
   font-family: "Oswald";
   color: #fff;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 70px;
   line-height: 85px;
   font-weight: 400;
